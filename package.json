@@ -1,0 +1,31 @@
+{
+  "name": "txjs2013",
+  "version": "0.1.0",
+  "author": "TXJS",
+  "description": "The website for TXJS 2013",
+  "contributors": [
+    {
+      "name": "Alex Sexton",
+      "email": "alexsexton@gmail.com"
+    },
+    {
+      "name": "Alex Zelenak",
+      "email": "alex.zelenak@gmail.com"
+    },
+    {
+      "name": "Mark DiMarco",
+      "email": "mark.dimarco@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slexaxton/txjs2013.git"
+  },
+  "dependencies": {
+    "marked": "~0.2.8"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}

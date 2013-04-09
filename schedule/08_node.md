@@ -10,9 +10,9 @@ for every skill level.
 
 Jed will brave the seas of serverside browsers. From implementing the DOM
 in JS, to pulling in actual headless browsers, there is a lot to know
-and a lot to be weary of. Luckily Jed is here to halp.
+and a lot to be wary of. Luckily Jed is here to halp.
 
-Jed is a javascript developer, formerly based in Tokyo, Japan, but now calls Brooklyn home. He is
+Jed is a javascript developer, formerly based in Tokyo, Japan, but now at home in Brooklyn. He is
 the guy behind [browserver](http://browserver.org/), [ramendan](http://2011.ramendan.com/), and
 [140byt.es](http://www.140byt.es/), and often seen on [github](https://github.com/jed),
 [flickr](http://www.flickr.com/photos/tr4nslator), [soundcloud](https://soundcloud.com/jedschmidt),
@@ -38,7 +38,7 @@ as [@polotek](https://twitter.com/polotek). He's a node expert, a member of
 ![Isaac Schlueter](https://lh3.googleusercontent.com/-e6KpUGeCYJ8/ThSfLtD3ngI/AAAAAAAAAFE/SvlTXlJN8fc/s160/isaacs-talking.jpeg)
 
 Isaacs has quite a bit of insight into the Node project as its project lead. As such, he is able to
-describe the changes and evolution of Node.js on a macro-level. There are lots of opinions and patterns
+describe the changes and evolution of Node.js on a macro level. There are lots of opinions and patterns
 embedded into the minimal serverside JS tool and there's a reason for a lot of them. Let Isaacs tell them
 at you.
 

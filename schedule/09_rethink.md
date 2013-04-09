@@ -11,7 +11,7 @@ information to make the things you used every day was zero. What if the recipe f
 product you ate was on the label?
 
 Charlie is a General Assembly Founder and CEO at [Nodejitsu](https://www.nodejitsu.com/), a
-Node.js platform as a service company. He lives in Manhattan, NY, tweets as
+Node.js platform as a service company. He lives in Manhattan, tweets as
 [@indexzero](https://twitter.com/indexzero) and has quite an impressive
 [open source](https://github.com/indexzero) track record.
 
@@ -21,7 +21,7 @@ Node.js platform as a service company. He lives in Manhattan, NY, tweets as
 ![Drew Wilson]()
 
 Execute is a new book by Josh Long and Drew Wilson about acting on inspiration immediately
-rather than following the normal rules They step you through the 5-day build of the Space Box
+rather than following the normal rules. They step you through the five-day build of the Space Box
 app and show you in real-time how to act on inspiration. They discuss how to stay inspired until
 you've shipped and how to identify what to build in the first place. If you are building apps,
 creating art, or you're a creative professional of any kind, then Execute is your new manual.

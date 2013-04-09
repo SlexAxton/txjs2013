@@ -434,7 +434,11 @@ body {
 }
 
 .flag .white {
-  background-color: whiteSmoke;
+  background-color: #FFF;
+}
+
+img {
+  max-width: 320px;
 }
 
 
@@ -535,15 +539,6 @@ h1, h2, h3, h4, h5, h6 {
 
   .header-info {
     -webkit-transform: translateY(-300%);
-  }
-}
-
-@media all and (max-width: 1124px) and (min-width: 769px) {
-  .js {
-    font-size: 350px;
-  }
-  .flag {
-    -webkit-transform: rotate(45deg) translate(14%, -23%);
   }
 }
 

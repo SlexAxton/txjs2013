@@ -1,6 +1,6 @@
 ## Webapps Group
 
-This set of speakers will be talking about the ins-and-outs of building web applications. Each talk
+This set of speakers will be talking about the ins and outs of building web applications. Each talk
 will be about 25 minutes.
 
 ### Trek Glowacki
@@ -23,7 +23,7 @@ application can get tricky. Rebecca built [Mulberry](http://mulberry.toura.com/)
 has recently been working on the internal framework at [Bazaarvoice](http://bazaarvoice.com/),
 both of which use techniques to help you generate your app instances.
 
-Rebecca is a JavaScript application developer and a frequent speaker on the topic of code organization
+Rebecca is a senior software engineer at Bazaarvoice and a frequent speaker on the topic of code organization
 and best practices at events around the world. She authored the learning site jQuery Fundamentals,
 contributed to the jQuery Cookbook from O’Reilly Media, served as a technical reviewer for David
 Herman’s Effective JavaScript, and created the TXJS conference (woo!). She has also created and

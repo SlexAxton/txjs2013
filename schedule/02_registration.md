@@ -20,6 +20,6 @@ you can continue listening.
 Our very gracious WiFi Sponsor, [Volusion](http://www.volusion.com/careers/), has upped the
 ante this year. We're doing our best to bring in some top tech to keep everyone connected
 throughout the day on all 9 of their devices! That said, we appreciate your cooperation in
-turning off dropbox, automatic backups, and those Season 3 Game of Thrones torrents, the
-books are better anyways. We also ask that while it's nifty to try to find yourself in the
-livestream, that you not watch it on the conference network.
+turning off Dropbox, automatic backups, and those Season 3 Game of Thrones torrents (the
+books are better anyway). We also ask that while it's nifty to try to find yourself in the
+livestream, please don't try to watch it on the conference network.

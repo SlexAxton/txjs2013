@@ -21,7 +21,7 @@ var file = fs.readFileSync('./_index.html', 'utf-8');
 
 var matches = file.match(/<\!\-\-MD\s+([^\s]+)\s+\-\->/ig);
 matches.forEach(function (match) {
-  file = file.replace(match, marked(fs.readFileSync('./' + match.replace('<!--MD ', '').replace(' -->', '') + '.md', 'utf-8')));
+  file = file.replace(match, '<div class="details">' + marked(fs.readFileSync('./' + match.replace('<!--MD ', '').replace(' -->', '') + '.md', 'utf-8')) + '</div>');
 });
 
 fs.writeFileSync('./index.html', file);

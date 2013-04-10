@@ -8,4 +8,9 @@ require({
 }, ['jquery', 'mbp'], function ($, MBP) {
   MBP.scaleFix();
   MBP.hideUrlBarOnLoad();
+  $(function () {
+    $('article h2').click(function() {
+      $(this).siblings('.details').slideToggle();
+    });
+  });
 });

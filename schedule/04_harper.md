@@ -1,5 +1,3 @@
-## Keynote: Harper Reed
-
 [Harper Reed](https://harperreed.org) is a hacker/engineer who builds
 paradigm-shifting tech and leads others to do the same. Harper loves using the
 enormity of the Internet to bring people together, whether as CTO of Obama for

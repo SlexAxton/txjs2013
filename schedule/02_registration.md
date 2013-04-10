@@ -1,5 +1,3 @@
-## Registration and Breakfast Tacos
-
 Swing by [The Paramount Theatre](http://goo.gl/maps/M3nKP) during this hour to get signed
 in. There will be a table and a line. If you already registered at the drink-up the night
 before, feel free to come in right away (but don't forget your badge!).

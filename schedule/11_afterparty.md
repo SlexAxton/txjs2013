@@ -1,5 +1,3 @@
-## Conference After Party
-
 Held in the closest thing to a templating-language-themed bar in Austin, the TXJS after party
 won't disappoint. Not if **you're** there anyways.
 

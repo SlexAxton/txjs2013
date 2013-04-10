@@ -1,5 +1,3 @@
-## HTML5 & CSS3 Group
-
 This set of speakers will be talking about HTML5, CSS3, and related technologies. Each talk
 will be about 25 minutes.
 

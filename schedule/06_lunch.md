@@ -1,5 +1,3 @@
-## Lunch - 1.5 Hours
-
 Downtown Austin is one of the best places to be hungry in the entire world. After careful consideration,
 we decided that making you eat conference food within walking distance of [Frank](http://hotdogscoldbeer.com/)
 would likely get us in trouble with someone.

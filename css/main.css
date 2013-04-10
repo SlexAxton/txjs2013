@@ -497,6 +497,7 @@ img {
 
 a {
   color: #2A2C5C;
+  text-shadow: 1px 1px 0 #FFF;
   text-decoration: none;
 }
 a:visited {
@@ -546,6 +547,25 @@ header h3 {
   color: #F0F0F0;
   font-variant: small-caps;
   text-shadow: -1px -1px 0 #000;
+}
+
+.time {
+  margin: 5px 0;
+  color: #CD2C3A;
+  text-shadow: 1px 1px 0 #FFFFFF;
+  font-family: 'txjsSemiBoldItalic';
+  cursor: pointer;
+}
+article h2 {
+  margin-top: 0;
+  cursor: pointer;
+}
+section h1 {
+  color: #2A2C5C;
+}
+
+.details {
+  display: none;
 }
 
 @font-face {

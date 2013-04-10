@@ -1,5 +1,3 @@
-## Welcome
-
 Short and sweet. TXJS organizer Alex Sexton will tell you the ins-and-outs of how to maximize your
 TXJS experience.
 

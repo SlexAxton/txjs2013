@@ -1,5 +1,3 @@
-## The Pre-Conference Drinkup
-
 Head on over the [The Gingerman](http://goo.gl/maps/SYySn) to schmooze with other
 conference goers! Argue about semicolons, bet on best talks, and preregister for
 your badge while you're there. Lucky for you, this year's sponsor of all things

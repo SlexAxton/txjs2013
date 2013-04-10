@@ -1,5 +1,3 @@
-## Node.js Group
-
 This set of speakers will be talking about node.js. Some new stuff, some old stuff, with info
 for every skill level.
 

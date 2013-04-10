@@ -1,5 +1,3 @@
-## Webapps Group
-
 This set of speakers will be talking about the ins and outs of building web applications. Each talk
 will be about 25 minutes.
 

@@ -1,5 +1,3 @@
-## Rethink.js Group
-
 This set of speakers will be talking about thinking differently. These ideas will be framed
 for a technical audience but often have more to do with **you** than your computer.
 

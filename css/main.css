@@ -560,12 +560,18 @@ article h2 {
   margin-top: 0;
   cursor: pointer;
 }
+article h2:hover {
+  color: #CD2C3A;
+}
 section h1 {
   color: #2A2C5C;
 }
 
 .details {
   display: none;
+  border-top: 1px solid #DDD;
+  border-bottom: 1px solid #DDD;
+  margin-bottom: 20px;
 }
 
 @font-face {

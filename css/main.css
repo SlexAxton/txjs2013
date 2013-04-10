@@ -492,7 +492,7 @@ img {
   color: #333;
   max-width: 920px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 5px;
 }
 
 a {
@@ -535,12 +535,19 @@ h1, h2, h3 {
 .break h2 {
   font-size: 1em;
 }
+article h2 a:visited,
+article h2 a {
+  color: #111;
+}
+h2 a:hover {
+  text-decoration: none;
+}
 
 header {
   color: #FFF;
   max-width: 920px;
   margin: 0 auto;
-  padding: 0 20px 20px;
+  padding: 0 5px 20px;
 }
 
 header h1 {
@@ -568,7 +575,7 @@ article h2 {
   margin-bottom: 10px;
   cursor: pointer;
 }
-article h2:hover,
+article h2 a:hover,
 article h2.active {
   color: #CD2C3A;
 }
@@ -587,6 +594,10 @@ section h1 {
 article {
   padding: 15px 10px 0;
   border-bottom: 1px solid #CCC;
+}
+
+footer {
+  height: 800px;
 }
 
 @font-face {

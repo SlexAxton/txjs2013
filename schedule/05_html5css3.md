@@ -4,8 +4,6 @@ will be about 25 minutes.
 ### Dave Rupert
 #### HTML: Do we really need the L?
 
-![Dave Rupert](http://daverupert.com/images/self.jpg)
-
 Dave will be giving an overview of how badass HTML5 is (in regards to mobile). Specifically,
 what we can do with it, and how we can make things better for people.
 
@@ -17,8 +15,6 @@ in Austin, TX. On the internets he's [davatron5000](https://twitter.com/davatron
 
 ### Nicole Sullivan
 #### OOCSS and Preprocessors in a tree, K-I-S-S-I-N-G
-
-![Nicole Sullivan](http://f.cl.ly/items/0b45461Y17032o2T273b/stubbornella.png)
 
 Many developers believe they need to choose between OOCSS and CSS preprocessors like SASS/Compass and LESS.
 Nicole believes that the best sites pair the strengths of both approaches, pulling the architecture from OOCSS
@@ -32,8 +28,6 @@ Volume 2. Photo taken by [John Morrison](http://subism.com/).
 
 ### Chris Coyier
 #### CSS is for Computers
-
-![Chris Coyier](http://chriscoyier.net/wp-content/uploads/2008/07/me3.jpg)
 
 We don't write programs in ones and zeros. We're many, many layers abstracted from that now. Those abstractions
 make programming powerful and practical. With the internet, we got a fresh start with the languages it digests:

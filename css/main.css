@@ -490,7 +490,7 @@ img {
   font-family: 'txjsRegular';
   font-size: 24px;
   color: #333;
-  max-width: 984px;
+  max-width: 920px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -529,9 +529,16 @@ h1, h2, h3 {
   background-color: #EFEFEF;
 }
 
+.break {
+  background-color: #E5E5E5;
+}
+.break h2 {
+  font-size: 1em;
+}
+
 header {
   color: #FFF;
-  max-width: 984px;
+  max-width: 920px;
   margin: 0 auto;
   padding: 0 20px 20px;
 }
@@ -551,27 +558,35 @@ header h3 {
 
 .time {
   margin: 5px 0;
-  color: #CD2C3A;
+  color: #2A2C5C;
   text-shadow: 1px 1px 0 #FFFFFF;
   font-family: 'txjsSemiBoldItalic';
   cursor: pointer;
 }
 article h2 {
   margin-top: 0;
+  margin-bottom: 10px;
   cursor: pointer;
 }
-article h2:hover {
+article h2:hover,
+article h2.active {
   color: #CD2C3A;
 }
+
 section h1 {
   color: #2A2C5C;
+  margin: 10px 0;
 }
 
 .details {
   display: none;
   border-top: 1px solid #DDD;
-  border-bottom: 1px solid #DDD;
   margin-bottom: 20px;
+}
+
+article {
+  padding: 15px 10px 0;
+  border-bottom: 1px solid #CCC;
 }
 
 @font-face {

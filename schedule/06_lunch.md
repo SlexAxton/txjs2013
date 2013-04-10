@@ -5,7 +5,7 @@ would likely get us in trouble with someone.
 You should be able to get in and out of most places in an hour and half, but please choose wisely if you find
 yourself in a line.
 
-Here is our **no-bull-honky list of pretty great places that you should use your eatin'-mouth at**:
+Here is our **no-bull-honky list of pretty great places that you should use yer eatin'-mouth at**:
 
 * [Frank](http://goo.gl/maps/OnCN6) - Gourmet Hotdogs & Good Coffee
 * [Roaring Fork](http://goo.gl/maps/VWHCn) - Fancy American (The Big Ass Burger is delicious)

@@ -10,7 +10,7 @@ require({
   MBP.hideUrlBarOnLoad();
   $(function () {
     $('article h2').click(function() {
-      $(this).siblings('.details').slideToggle();
+      $(this).toggleClass('active').siblings('.details').slideToggle();
     });
   });
 });

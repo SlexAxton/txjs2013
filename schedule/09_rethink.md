@@ -16,8 +16,6 @@ Node.js platform as a service company. He lives in Manhattan, tweets as
 ### Drew Wilson
 #### Execute
 
-![Drew Wilson]()
-
 Execute is a new book by Josh Long and Drew Wilson about acting on inspiration immediately
 rather than following the normal rules. They step you through the five-day build of the Space Box
 app and show you in real-time how to act on inspiration. They discuss how to stay inspired until
@@ -25,7 +23,7 @@ you've shipped and how to identify what to build in the first place. If you are 
 creating art, or you're a creative professional of any kind, then Execute is your new manual.
 Execute was written in 3 days, designed and off to the printer in only 8 days.
 
-Drew Wilson is a designer and developer (a true cross-bread powerhouse) out of Oceanside, California.
+Drew Wilson is a designer and developer (a true cross-breed powerhouse) out of Oceanside, California.
 Drew created the first widely popular icon font, [Pictos](http://pictos.cc). He is a conference organizer,
 producing [ValioCon](http://valiocon.com/). He’s the creator of web apps like
 [Space Box](https://spacebox.io/) and [Dialoggs](http://dialog.gs/). The list goes on and on. Drew tweets

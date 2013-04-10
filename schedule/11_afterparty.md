@@ -1,4 +1,5 @@
-Held in the closest thing to a templating-language-themed bar in Austin, the TXJS after party
+Held in the closest thing to a templating-language-themed bar in Austin,
+[Handlebar Austin](http://goo.gl/maps/ZNreo), the TXJS after party
 won't disappoint. Not if **you're** there anyways.
 
 There will be free drinks provided by [Mozilla](http://mozilla.org)! There will be a roof

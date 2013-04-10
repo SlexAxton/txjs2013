@@ -31,7 +31,7 @@ at [@drewwilson](https://twitter.com/drewwilson).
 
 You can purchase a copy of Execute at [executebook.com](http://executebook.com/).
 
-[![Execute](http://f.cl.ly/items/0o200D0p202i2D1g0c0C/execute-book.png)](http://executebook.com/)
+[![Execute](img/execute-book.png)](http://executebook.com/)
 
 ### Phil Hawksworth
 #### I can smell your CMS

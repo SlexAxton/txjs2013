@@ -1,7 +1,11 @@
 require({
-  baseUrl: '/js'
-}, ['jquery'], function ($) {
-  $(function(){
-    console.log('ready');
-  });
+  baseUrl: '/js',
+  shim: {
+    'mbp': {
+      exports: 'MBP'
+    }
+  }
+}, ['jquery', 'mbp'], function ($, MBP) {
+  MBP.scaleFix();
+  MBP.hideUrlBarOnLoad();
 });

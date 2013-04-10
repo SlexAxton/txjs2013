@@ -509,6 +509,9 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 250px;
     margin: -340px -10px;
   }
+  .flag-wrapper {
+    margin-top: -59%;
+  }
 }
 
 @media all and (min-width: 1280px) {

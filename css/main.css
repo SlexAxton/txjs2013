@@ -403,7 +403,7 @@ table {
 
 /* TXJS APP */
 
-html, body { width:100%;  overflow-x:hidden; }
+html, body { width:100%; }
 
 body {
   background-color: #2A2C5C;
@@ -413,8 +413,9 @@ body {
   height: 1000px;
   margin-top: -250px;
   background-clip: content-box;
-  width: 100%;
+  width: 33.33333%;
   position: fixed;
+  right: 0;
 }
 
 .flag {
@@ -447,13 +448,14 @@ body {
   font-family: js, helvetica, arial;
   font-size: 360px;
   position: fixed;
-  right: 10%;
-  top: -162px;
+  right: 0;
   color: #FFF;
   font-weight: normal;
   letter-spacing: -2px;
   text-align: right;
-  width: 100%;
+  width: 66.66666%;
+  max-width: 1000px;
+  margin: 120px 4% 0 0;
 }
 
 .js:before {
@@ -489,6 +491,7 @@ body {
   max-width: 920px;
   margin: 0 auto;
   padding: 5px;
+  overflow: hidden;
 }
 
 a {
@@ -533,7 +536,7 @@ h1, h2, h3 {
   background-color: #E5E5E5;
 }
 .break h2 {
-  font-size: 1em;
+  color: #666;
 }
 article h2 a:visited,
 article h2 a {
@@ -560,8 +563,6 @@ header h1 {
 }
 
 footer {
-  max-width:920px;
-  margin: 0 auto;
   padding: 10px 0 100px;
   position: relative;
   z-index: 1;
@@ -591,26 +592,29 @@ header h2 {
   color: #F0F0F0;
   text-shadow: -1px -1px 0 #000;
   text-transform: uppercase;
+  font-size: 1.4em;
 }
 
 .time {
   margin: 5px 0;
   color: #2A2C5C;
   text-shadow: 1px 1px 0 #FFFFFF;
-  font-family: 'txjsSemiBoldItalic';
   display: table-cell;
   white-space: nowrap;
+  font-size: 0.8em;
+  text-transform: uppercase;
 }
 article {
   display: table-row;
 }
 article h2 {
-  font-size: 1.75em;
+  font-size: 1.2em;
   margin-top: 0;
   margin-bottom: 10px;
   cursor: pointer;
   display: table-cell;
   width: 100%;
+  padding: 10px 20px;
 }
 article h2 a:hover,
 article h2.active {

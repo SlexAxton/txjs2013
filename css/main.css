@@ -413,7 +413,7 @@ body {
   height: 1000px;
   margin-top: -250px;
   background-clip: content-box;
-  width: 33.33333%;
+  width: 100%;
   position: fixed;
   right: 0;
 }
@@ -453,9 +453,9 @@ body {
   font-weight: normal;
   letter-spacing: -2px;
   text-align: right;
-  width: 66.66666%;
+  width: 100%;
   max-width: 1000px;
-  margin: 120px 4% 0 0;
+  margin: 120px 10% 0 0;
 }
 
 .js:before {
@@ -570,7 +570,6 @@ footer {
   background: #2A2C5C;
 }
 footer h2 {
-  font-size: 3em;
   color: #FFF;
   text-shadow: -1px 1px 0 #000;
 }

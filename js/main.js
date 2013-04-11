@@ -10047,7 +10047,7 @@ if ( typeof define === "function" && define.amd && define.amd.jQuery ) {
 MBP.scaleFix();
 MBP.hideUrlBarOnLoad();
 $(function () {
-  $('.js').fitText();
+  $('.js').fitText(1/3.2);
 
   $('article h2').click(function() {
     $('.active').not(this).removeClass('active').siblings('.details').hide();

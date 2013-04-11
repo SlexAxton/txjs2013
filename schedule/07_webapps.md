@@ -28,14 +28,15 @@ Herman’s Effective JavaScript, and created the TXJS conference (woo!). She has
 contributed to several open-source projects, including jQuery and Johnny Five.
 
 ### Frances Berriman
-#### Web Application UX
+#### Culture change for creating better user experiences
 
-Whether you know it or not, “UX Designer” is in your job description. Understand more about how you
-can get involved with improving experiences for your site, with a set of practical design principles
-that go beyond interaction and visual design, and can be used by everyone on your team, no matter their
-discipline.
+Building amazing digital services is a dream we all have, but many of us are working for companies that 
+aren't quite with the programme yet. With a few examples from how we're making huge and lasting changes 
+within the UK Government's digital services, I'll describe how you can help steer your products 
+onto better seas through simple culture change tricks mostly involving watching what you say.
 
-Frances is front-end developer lead for [GovUK](https://www.gov.uk/) in London (where she spends a lot of
-time thinking about and designing better user experiences and digital services), an evangelising admin for
-[microformats.org](http://microformats.org), and is a former editor at [Digital Web](http://www.digital-web.com/).
-She tweets as [@phae](https://twitter.com/phae).
+Frances is front-end development lead for [GovUK](https://www.gov.uk/) in London, where she is helping to revolutionise 
+digital services for citizens from the inside out.  Previously, she worked for the BBC on their JavaScript 
+library and for scientific journal publisher NPG.  She blogs at [fberriman](http://fberriman.com/) and 
+tweets as [@phae](https://twitter.com/phae).
+

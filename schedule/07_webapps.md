@@ -4,7 +4,7 @@ will be about 25 minutes.
 ### Trek Glowacki
 #### JavaScript Application Frameworks
 
-Trek will be talking about a bit about JavaScript Application frameworks. As a user of and contributor
+Trek will be talking a bit about JavaScript Application frameworks. As a user of and contributor
 to many of the most popular libraries and frameworks, Trek has some unique insights into what makes
 these tools different, and what their best uses are.
 

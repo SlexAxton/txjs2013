@@ -560,7 +560,12 @@ header h1 {
 
 footer {
   max-width:920px;
-  margin: 10px auto 100px;
+  margin: 0 auto;
+  padding: 10px 0 100px;
+  position: relative;
+  z-index: 1;
+  top: 520px;
+  background: #2A2C5C;
 }
 footer h2 {
   font-size: 3em;
@@ -579,7 +584,7 @@ footer img {
 }
 header hgroup {
   max-width: 920px;
-  margin: 300px auto 0;
+  margin: 200px auto 0;
 }
 header h2 {
   color: #F0F0F0;

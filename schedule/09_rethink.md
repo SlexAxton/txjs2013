@@ -36,18 +36,13 @@ You can purchase a copy of Execute at [executebook.com](http://executebook.com/)
 ### Phil Hawksworth
 #### I can smell your CMS
 
-The word is getting out. Great web site experiences require careful development and crafty execution
-in the front end. Squeezing every drop of performance out of your user's browser is tough, but Steve
-Souders and friends have mobilized an army, and we are all having a bloody good go. But there is a common
-threat to doing great work in the front-end. It lurks in the back-end and clients love it. It's the content
-management system, and more often than not, it stinks. We'll look at examples of the damaging traces CMSs
-leave behind in the front-end and at how we might work to reduce them. We'll find ways to fight for what
-matters in a CMS, and ways to avoid the smell of your CMS wafting over to the user and sacrificing
-the craftsmanship of good front-end engineering.
+You make web sites. Clients want them to include all of the latest exciting fads and "interface shizzle". You want them to render quickly and have a shelf-life longer than that hummus you bought the other day.  Clients want to be able to maintain the site themselves, they know about content management systems and are going to invest big money in a real belter. You know that they'll be unleashing their 'creativity' and messing with your mojo.
+
+This talk will explore the good, the bad, and the fugly of rich interfaces, and look at ways to champion what matters. We'll also look at examples of the damaging traces CMSs leave behind in the front-end and at ways to avoid the smell of your CMS wafting over to the user and sacrificing the all-important craftsmanship of good front-end engineering.
 
 Phil Hawksworth is a JavaScript developer who has been developing web applications since the late 90s. These
-days in his role as a Technical Director at R/GA in London, working for clients like Nike, O2 and Getty Images,
+days in his role as a Technical Director at [R/GA](http://rga.com) in London, working for clients like Nike, O2 and Getty Images,
 he focuses on technical architectures, wrangling developers and designers, and banging on about things like
-unobtrusive JavaScript, open web standards and tasty browser shenanigans. Some say that his Instagram feed
+unobtrusive JavaScript, open web standards and tasty browser shenanigans. Some say that his [Instagram](http://instagram.com/philhawksworth) feed
 contains more photos of cats than might be considered healthy for a grown man, but he's convinced that he
 doesn't have a problem. He tweets at [@philhawksworth](https://twitter.com/philhawksworth)

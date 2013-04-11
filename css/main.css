@@ -550,7 +550,8 @@ header {
 }
 
 header h1 {
-  font-size: 4.5em;
+  font-size: 6em;
+  line-height: 100%;
   font-family: 'txjsRegular';
   color: #F0F0F0;
   margin: 10px 0;
@@ -591,12 +592,19 @@ header h2 {
   color: #2A2C5C;
   text-shadow: 1px 1px 0 #FFFFFF;
   font-family: 'txjsSemiBoldItalic';
+  display: table-cell;
+  white-space: nowrap;
+}
+article {
+  display: table-row;
 }
 article h2 {
   font-size: 1.75em;
   margin-top: 0;
   margin-bottom: 10px;
   cursor: pointer;
+  display: table-cell;
+  width: 100%;
 }
 article h2 a:hover,
 article h2.active {

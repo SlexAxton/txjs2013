@@ -409,6 +409,11 @@ body {
   background-color: #2A2C5C;
 }
 
+.flag-wrapper-rapper {
+  position: fixed;
+  width: 100%;
+}
+
 .flag-wrapper {
   position: relative;
 	padding-bottom: 50%;
@@ -658,6 +663,7 @@ section h1 {
 article {
   padding: 10px;
   border-bottom: 1px solid #CCC;
+  box-shadow: 0 1px 0 #FFF;
 }
 
 @font-face {

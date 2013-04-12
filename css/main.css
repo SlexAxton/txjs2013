@@ -413,7 +413,7 @@ body {
   position: relative;
 	padding-bottom: 50%;
 	height: 0;
-	margin: -28% -62% 0 0;
+	margin: -28% -65% 0 0;
 }
 
 .flag {
@@ -458,7 +458,7 @@ body {
   font-size: .55em;
   vertical-align: top;
   display: inline-block;
-  margin-right: -25px;
+  margin-right: -0.2em;
   -webkit-transform: rotate(25deg);
   -moz-transform: rotate(25deg);
 }
@@ -677,6 +677,10 @@ article {
     -webkit-transform: scale(1.5);
     -moz-transform: scale(1.5);
     right: 50%
+  }
+  .js:before {
+    font-size: 0.45em;
+    margin: 0.2em -0.2em 0 0;
   }
   header hgroup {
     text-align: center;

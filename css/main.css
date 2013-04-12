@@ -529,6 +529,9 @@ h1, h2, h3 {
 .light article {
   cursor: pointer;
 }
+.light article .details {
+  cursor: auto;
+}
 article h2 a:visited,
 article h2 a {
   color: #292B5B;

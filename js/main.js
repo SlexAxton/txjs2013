@@ -10050,6 +10050,10 @@ $(function () {
   $('.js').fitText(1/3.2);
   $('header h1').fitText();
 
+  $('.details').click(function() {
+    return false;
+  });
+
   $('article').click(function() {
     $('.active').not(this).removeClass('active');
     var $this = $(this);

@@ -526,7 +526,9 @@ h1, h2, h3 {
   position: relative;
   top: 420px;
 }
-
+.light article {
+  cursor: pointer;
+}
 article h2 a:visited,
 article h2 a {
   color: #292B5B;

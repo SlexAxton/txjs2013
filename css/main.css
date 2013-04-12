@@ -716,6 +716,12 @@ article {
   }
 }
 
+@media all and (min-width: 1750px) {
+  .light,
+  footer {
+    top: 970px;
+  }
+}
 
 /*
 

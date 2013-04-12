@@ -803,7 +803,7 @@ Instructions:
   z-index: 1;
 }
 
-.noise:before, .noisedark:before, .body-noise:before .body-noisedark:before {
+.noise:before, .noisedark:before, .body-noise:before, .body-noisedark:before {
   content: "";
   position: absolute;
   z-index: -1;

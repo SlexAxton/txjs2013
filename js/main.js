@@ -10050,9 +10050,15 @@ $(function () {
   $('.js').fitText(1/3.2);
   $('header h1').fitText();
 
-  $('article h2').click(function() {
+  $('.details').click(function() {
+    return false;
+  });
+
+  $('article').click(function() {
     $('.active').not(this).removeClass('active');
-    $(this).toggleClass('active').siblings('.details').slideToggle();
+    var $this = $(this);
+    $this.find('h2').toggleClass('active')
+    $this.find('.details').slideToggle();
     return false;
   });
 

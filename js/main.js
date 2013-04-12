@@ -10050,8 +10050,9 @@ $(function () {
   $('.js').fitText(1/3.2);
 
   $('article h2').click(function() {
-    $('.active').not(this).removeClass('active').siblings('.details').hide();
+    $('.active').not(this).removeClass('active');
     $(this).toggleClass('active').siblings('.details').slideToggle();
+    return false;
   });
 
   var targetEl = $(window.location.hash);

@@ -654,6 +654,20 @@ article {
 }
 
 /* readme before updating these: http://hehpic.com/eD.jpg */
+
+@media all and (max-width: 640px) {
+  .time {
+    display: block;
+  }
+  article {
+    display: block;
+  }
+  article h2 {
+    padding-left: 0;
+  }
+}
+
+
 /*
 
 @media all and (max-width: 768px) {

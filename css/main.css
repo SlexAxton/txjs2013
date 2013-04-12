@@ -653,6 +653,23 @@ section h1 {
 .details p {
   margin: 0 0 15px;
 }
+.details a {
+  font-family: 'txjsSemiBoldItalic';
+}
+.details ul li {
+  position: relative;
+  padding: 5px 5px 5px 30px;
+  list-style-type: none;
+}
+.details ul li:before {
+  content: "★";
+  font-size: .55em;
+  position: absolute;
+  left: 10px;
+}
+.details ul li:nth-child(odd) {
+  background-color: rgba(255,255,255,0.3) 
+}
 .details h3 {
   color: #CD2C3A;
   margin: 0;
@@ -668,7 +685,7 @@ section h1 {
 }
 
 article {
-  padding: 10px;
+  padding: 10px 10px 0;
   border-bottom: 1px solid #CCC;
   box-shadow: 0 1px 0 #FFF;
 }
@@ -716,6 +733,10 @@ article {
   .light,
   footer {
     top: 480px;
+  }
+  .details {
+    font-size: 0.8em;
+    line-height: 1.5em;
   }
 }
 

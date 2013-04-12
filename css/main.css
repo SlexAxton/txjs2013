@@ -793,12 +793,13 @@ Instructions:
 
 /*** SNIPPET STARTS ***/
 
-.noise {
+.noise,
+.noisedark {
   position: relative;
   z-index: 1;
 }
 
-.noise:before, .body-noise:before {
+.noise:before, .noisedark:before, .body-noise:before .body-noisedark:before {
   content: "";
   position: absolute;
   z-index: -1;
@@ -808,6 +809,9 @@ Instructions:
   right:0;
   opacity: 1.0;
   background-image: url(../img/txjsbg.png);
+}
+.noisedark:before, .body-noisedark:before {
+  background-image: url(../img/txjsbg2.png);
 }
 
 /*** SNIPPET ENDS ***/

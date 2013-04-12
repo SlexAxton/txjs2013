@@ -602,9 +602,11 @@ header h2 {
   white-space: nowrap;
   font-size: 0.8em;
   text-transform: uppercase;
+  width: 125px;
 }
 article {
   display: table-row;
+  width: 100%;
 }
 article h2 {
   font-size: 1.2em;

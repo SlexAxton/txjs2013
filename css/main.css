@@ -410,21 +410,20 @@ body {
 }
 
 .flag-wrapper {
-  height: 1000px;
-  margin-top: -250px;
-  background-clip: content-box;
-  width: 100%;
-  position: fixed;
-  right: 0;
+  position: relative;
+	padding-bottom: 50%;
+	height: 0;
+	margin: -28% -62% 0 0;
 }
 
 .flag {
-  position: relative;
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
-  width: 200%;
-  height: 420px;
-  margin-left: -20%;
+  position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
 
 .flag div {
@@ -441,21 +440,17 @@ body {
   background-color: #FFF;
 }
 
-
-
-
 .js {
   font-family: js, helvetica, arial;
   font-size: 360px;
   position: fixed;
-  right: 0;
+  right: 11%;
+  top: 0;
   color: #FFF;
   font-weight: normal;
   letter-spacing: -2px;
   text-align: right;
-  width: 100%;
-  max-width: 1000px;
-  margin: 120px 10% 0 0;
+  width: 80%;
 }
 
 .js:before {

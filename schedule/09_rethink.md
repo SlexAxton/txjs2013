@@ -8,7 +8,7 @@ Charlie will address what the world would look like if the barrier to entry for 
 information to make the things you used every day was zero. What if the recipe for every food
 product you ate was on the label?
 
-Charlie is a General Assembly Founder and CEO at [Nodejitsu](https://www.nodejitsu.com/), a
+Charlie was the first CTO at General Assembly and is currently CEO at [Nodejitsu](https://www.nodejitsu.com/), a
 Node.js platform as a service company. He lives in Manhattan, tweets as
 [@indexzero](https://twitter.com/indexzero) and has quite an impressive
 [open source](https://github.com/indexzero) track record.

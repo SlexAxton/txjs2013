@@ -524,7 +524,7 @@ h1, h2, h3 {
   background-color: #EFEFEF;
   z-index: 1;
   position: relative;
-  top: 520px;
+  top: 420px;
 }
 
 article h2 a:visited,
@@ -565,7 +565,7 @@ footer {
   padding: 10px 0 100px;
   position: relative;
   z-index: 1;
-  top: 520px;
+  top: 420px;
   background: #2A2C5C;
 }
 footer h2 {
@@ -584,7 +584,7 @@ footer img {
 }
 header hgroup {
   max-width: 920px;
-  margin: 200px auto 0;
+  margin: 140px auto 0;
 }
 header h2 {
   color: #F0F0F0;
@@ -665,6 +665,22 @@ article {
   }
   article h2 {
     padding-left: 0;
+  }
+  .flag-wrapper {
+    margin: -42% -30% 0 0;
+  }
+  .flag {
+    -webkit-transform: rotate(45deg) scale(1.5);
+    -moz-transform: rotate(45deg) scale(1.5);
+  }
+  .js {
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    right: 50%
+  }
+  header hgroup {
+    text-align: center;
+    margin-top: 280px;
   }
 }
 

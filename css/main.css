@@ -532,16 +532,20 @@ h1, h2, h3 {
   top: 520px;
 }
 
-.break {
-  background-color: #E5E5E5;
-}
-.break h2 {
-  color: #666;
-}
 article h2 a:visited,
 article h2 a {
   color: #111;
 }
+
+article.break {
+  background-color: #E5E5E5;
+}
+article.break h2,
+article.break h2 a:visited,
+article.break h2 a {
+  color: #666;
+}
+
 h2 a:hover {
   text-decoration: none;
 }

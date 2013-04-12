@@ -503,7 +503,7 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'txjsSemiBoldItalic';
-  color: #111;
+  color: #292B5B;
   font-weight: normal;
 }
 h1, h2, h3 {
@@ -529,7 +529,7 @@ h1, h2, h3 {
 
 article h2 a:visited,
 article h2 a {
-  color: #111;
+  color: #292B5B;
 }
 
 article.break {
@@ -595,16 +595,17 @@ header h2 {
 
 .time {
   margin: 5px 0;
-  color: #2A2C5C;
+  color: #666;
   text-shadow: 1px 1px 0 #FFFFFF;
   display: table-cell;
   white-space: nowrap;
-  font-size: 0.8em;
+  font-size: 0.7em;
   text-transform: uppercase;
   width: 125px;
+  background-color: rgba(255,255,255,.3);
+  padding: 0 10px;
 }
 article {
-  display: table-row;
   width: 100%;
 }
 article h2 {
@@ -626,6 +627,9 @@ section h1 {
   padding: 10px 0;
   text-transform: uppercase;
   font-size: 1em;
+  border-bottom: 2px solid #CCC;
+  box-shadow: 0 1px 0 #FFF;
+  margin-bottom: 0;
 }
 
 .details {
@@ -647,7 +651,7 @@ section h1 {
 }
 
 article {
-  padding: 15px 10px 0;
+  padding: 10px;
   border-bottom: 1px solid #CCC;
 }
 

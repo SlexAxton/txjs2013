@@ -457,6 +457,7 @@ body {
   letter-spacing: -2px;
   text-align: right;
   width: 70%;
+  text-shadow: none;
 }
 
 .js:before {

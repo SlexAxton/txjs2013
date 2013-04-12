@@ -10050,16 +10050,14 @@ $(function () {
   $('.js').fitText(1/3.2);
   $('header h1').fitText();
 
-  $('.details').click(function() {
-    return false;
-  });
-
-  $('article').click(function() {
-    $('.active').not(this).removeClass('active');
-    var $this = $(this);
-    $this.find('h2').toggleClass('active')
-    $this.find('.details').slideToggle();
-    return false;
+  $('article').click(function(e) {
+    if (!$(e.target).closest('.details').length) {
+      var $this = $(this);
+      $('.active').not(this).removeClass('active');
+      $this.find('h2').toggleClass('active')
+      $this.find('.details').slideToggle();
+      return false;
+    }
   });
 
   var targetEl = $(window.location.hash);

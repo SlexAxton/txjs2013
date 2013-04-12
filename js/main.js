@@ -10048,6 +10048,7 @@ MBP.scaleFix();
 MBP.hideUrlBarOnLoad();
 $(function () {
   $('.js').fitText(1/3.2);
+  $('header h1').fitText();
 
   $('article h2').click(function() {
     $('.active').not(this).removeClass('active');

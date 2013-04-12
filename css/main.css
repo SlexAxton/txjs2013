@@ -622,8 +622,10 @@ article h2.active {
 }
 
 section h1 {
-  color: #2A2C5C;
-  margin: 10px 0;
+  color: #CD2B39;
+  padding: 10px 0;
+  text-transform: uppercase;
+  font-size: 1em;
 }
 
 .details {
@@ -685,6 +687,9 @@ article {
   header hgroup {
     text-align: center;
     margin-top: 280px;
+  }
+  header h2 {
+    font-size: 1em;
   }
 }
 

@@ -418,7 +418,7 @@ body {
   position: relative;
 	padding-bottom: 50%;
 	height: 0;
-	margin: -28% -65% 0 0;
+	margin: -28% -69% 0 0;
 }
 
 .flag {
@@ -449,13 +449,13 @@ body {
   font-family: js, helvetica, arial;
   font-size: 360px;
   position: fixed;
-  right: 11%;
+  right: 13%;
   top: 0;
   color: #FFF;
   font-weight: normal;
   letter-spacing: -2px;
   text-align: right;
-  width: 80%;
+  width: 70%;
 }
 
 .js:before {
@@ -529,7 +529,7 @@ h1, h2, h3 {
   background-color: #EFEFEF;
   z-index: 1;
   position: relative;
-  top: 420px;
+  top: 640px;
 }
 .light article {
   cursor: pointer;
@@ -575,7 +575,7 @@ footer {
   padding: 10px 0 100px;
   position: relative;
   z-index: 1;
-  top: 420px;
+  top: 640px;
   background: #2A2C5C;
 }
 footer h2 {
@@ -594,7 +594,7 @@ footer img {
 }
 header hgroup {
   max-width: 920px;
-  margin: 140px auto 0;
+  margin: 250px auto 0;
 }
 header h2 {
   color: #F0F0F0;
@@ -705,6 +705,10 @@ article {
   }
   header h2 {
     font-size: 1em;
+  }
+  .light,
+  footer {
+    top: 480px;
   }
 }
 

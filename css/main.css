@@ -130,7 +130,8 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: bold;
+    font-family: 'txjsSemiBoldItalic';
+    font-weight: normal;
 }
 
 /**
@@ -530,6 +531,7 @@ h1, h2, h3 {
   z-index: 1;
   position: relative;
   top: 640px;
+  padding: 40px 0;
 }
 .light article {
   cursor: pointer;
@@ -604,10 +606,9 @@ header h2 {
 }
 
 .time {
-  margin: 5px 0;
+  margin: 5px 0 5px -18px;
   color: #666;
   text-shadow: 1px 1px 0 #FFFFFF;
-  display: table-cell;
   white-space: nowrap;
   font-size: 0.7em;
   text-transform: uppercase;
@@ -645,7 +646,9 @@ section h1 {
 .details {
   display: none;
   border-top: 1px solid #DDD;
-  margin-bottom: 20px;
+  margin: 0 20px 20px;
+  font-size: 0.9em;
+  line-height: 1.5em;
 }
 .details h3 {
   color: #CD2C3A;

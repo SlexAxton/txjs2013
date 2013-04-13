@@ -15,17 +15,6 @@ the guy behind [browserver](http://browserver.org/), [ramendan](http://2011.rame
 and [twitter](https://twitter.com/jedschmidt). There is also a javascript library
 [named after him](http://jedtoolkit.org/).
 
-### Marco Rogers
-#### Streeeams, probably
-
-One of the best features of modern node.js applications are streams. However, these unix-y concepts
-are often overlooked by folks. The performance increases and readability of streams are often a huge
-win for developers. Marco will help separate the FUD from the Fact.
-
-Marco is a Senior JavaScript Engineer at Yammer in San Francisco. You've probably seen him on twitter
-as [@polotek](https://twitter.com/polotek). He's a node expert, a member of
-[the Node Firm](http://thenodefirm.com/) and frequent open source contributor on [github](https://github.com/polotek).
-
 ### Isaac Schlueter
 #### The Evolution of Node
 
@@ -37,3 +26,14 @@ at you.
 Once a great and mighty seeker of adventure, Isaac Z. Schlueter has in recent times been reduced to a build
 slave for the Node.js project. He is fascinated by pushing the limits of anarchic self-governance in open
 source communities, and has an unhealthy fixation on writing JavaScript.
+
+### Marco Rogers
+#### Streeeams, probably
+
+One of the best features of modern node.js applications are streams. However, these unix-y concepts
+are often overlooked by folks. The performance increases and readability of streams are often a huge
+win for developers. Marco will help separate the FUD from the Fact.
+
+Marco is a Senior JavaScript Engineer at Yammer in San Francisco. You've probably seen him on twitter
+as [@polotek](https://twitter.com/polotek). He's a node expert, a member of
+[The Node Firm](http://thenodefirm.com/) and frequent open source contributor on [github](https://github.com/polotek).

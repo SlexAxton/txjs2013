@@ -2,15 +2,17 @@ This set of speakers will be talking about the ins and outs of building web appl
 will be about 25 minutes.
 
 ### Trek Glowacki
-#### JavaScript Application Frameworks
+#### Beyond Front-end Developer
 
-Trek will be talking a bit about JavaScript Application frameworks. As a user of and contributor
-to many of the most popular libraries and frameworks, Trek has some unique insights into what makes
-these tools different, and what their best uses are.
+In an indurstry where 
+[designers skip Photoshop](http://37signals.com/svn/posts/1061-why-we-skip-photoshop) 
+and application engineers are [moving application code into the browser](http://emberjs.com/) what 
+role does the front-end developer play? We'll explore the tangled history of documents on the web, how applications came to dominate attention in the browser, and where we can go from here.
 
-Trek helped start [Workantile](http://workantile.com/) and currently makes mischief in Chicago.
-He's on the [Ember.JS](http://emberjs.com/) core team. [Paul Irish](http://paulirish.com/) once
-called him 'a hero'. Trek tweets at [@trek](https://twitter.com/trek).
+Trek helped start [Workantile](http://workantile.com/) and currently makes mischief in Chicago for 
+[Groupon Engineering](https://engineering.groupon.com/). He's on the [Ember.JS](http://emberjs.com/)
+core team. [Paul Irish](http://paulirish.com/) once called him 'a 
+hero'. Trek tweets at [@trek](https://twitter.com/trek).
 
 ### Rebecca Murphey
 #### Config Generated Apps; or Some Other Fancier Sounding Name

@@ -2,18 +2,17 @@ This set of speakers will be talking about node.js. Some new stuff, some old stu
 for every skill level.
 
 ### Jed Schmidt
-#### Scraping the Tree: Faking Browsers for FFUU and Profit
+#### Faking Browsers for FFUU and Profit
 
-Jed will brave the seas of serverside browsers. From implementing the DOM
-in JS, to pulling in actual headless browsers, there is a lot to know
-and a lot to be wary of. Luckily Jed is here to halp.
+Having built a [server that runs in your browser](http://browserver.org/), Jed has turned his attention 
+to browsers that can run on your server. He'll cover some good reasons why you'd want such a thing, 
+from testing and monitoring to automation and scraping.
 
-Jed is a javascript developer, formerly based in Tokyo, Japan, but now at home in Brooklyn. He is
-the guy behind [browserver](http://browserver.org/), [ramendan](http://2011.ramendan.com/), and
-[140byt.es](http://www.140byt.es/), and often seen on [github](https://github.com/jed),
-[flickr](http://www.flickr.com/photos/tr4nslator), [soundcloud](https://soundcloud.com/jedschmidt),
-and [twitter](https://twitter.com/jedschmidt). There is also a javascript library
-[named after him](http://jedtoolkit.org/).
+Jed is a JavaScript developer, formerly based in Tokyo, Japan, but now at home in Brooklyn. He is
+the guy behind [ramendan](http://2011.ramendan.com/) and [140byt.es](http://www.140byt.es/), and is 
+often seen on [github](https://github.com/jed), [flickr](http://www.flickr.com/photos/tr4nslator), 
+[soundcloud](https://soundcloud.com/jedschmidt), and [twitter](https://twitter.com/jedschmidt). 
+There is also a javascript library [named after him](http://jedtoolkit.org/).
 
 ### Isaac Schlueter
 #### The Evolution of Node

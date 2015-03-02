@@ -590,10 +590,16 @@ footer a {
   margin: 0;
 }
 footer img {
-  width: 96%;
-  max-width: 420px;
+  /*width: 96%;
+  max-width: 420px;*/
   float: left;
   margin: 10px;
+}
+footer p {
+  clear: both;
+  font-size: 14px;
+  padding-top: 40px;
+  color: #FFF;
 }
 header hgroup {
   max-width: 920px;
@@ -668,7 +674,7 @@ section h1 {
   left: 10px;
 }
 .details ul li:nth-child(odd) {
-  background-color: rgba(255,255,255,0.3) 
+  background-color: rgba(255,255,255,0.3)
 }
 .details h3 {
   color: #CD2C3A;

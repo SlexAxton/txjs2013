@@ -573,7 +573,30 @@ header h1 {
   margin: 10px 0;
   text-shadow: -1px -1px 0 #000;
 }
-
+.featuring-speakers {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: center;
+}
+.featuring-speakers li {
+  display: inline-block;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+}
+.featuring-speakers img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 150px;
+  border: 2px solid white;
+  box-shadow: 1px 1px 0 rgba(0,0,0,0.15);
+}
+.featuring-speakers a {
+  display: block;
+  margin: 10px;
+  font-size: 18px;
+}
 footer {
   padding: 10px 0 100px;
   position: relative;

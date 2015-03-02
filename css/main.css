@@ -882,3 +882,86 @@ Instructions:
 }
 
 /*** SNIPPET ENDS ***/
+
+
+#tickets ul {
+  list-style: none;
+  padding: 50px 0;
+  margin: 10px 20px;
+}
+
+#tickets li.tito-ticket {
+  margin-bottom: 12px;
+  font-size: 24px;
+  background-color: rgba(42, 44, 92, 0.15);
+  height: 60px;
+  padding: 20px;
+}
+
+#tickets .row {
+  margin: 0;
+  list-style-type: none;
+}
+
+span.tito-badge-link, .tito-ticket-upcoming-separator {
+  display: none;
+}
+
+.tito-ticket-status-sold-out, .tito-ticket-status-ended, .tito-ticket-upcoming-explanation-wrapper, .tito-ticket-upcoming-price {
+  color: #CD2B39;
+}
+
+.tito-ticket-price-quantity, .tito-ticket-upcoming-price {
+  float: right;
+}
+
+.tito-ticket-name-wrapper, .tito-ticket-price, .tito-ticket-quantity  {
+  float: left;
+}
+
+.tito-ticket-status-upcoming .tito-ticket-price-quantity-wrapper {
+  clear: both;
+}
+.tito-ticket-upcoming-explanation, .tito-ticket-upcoming-separator {
+  display: none;
+}
+.tito-ticket-status-upcoming:first-child .tito-ticket-upcoming-price:before {
+  content: "On sale: March 3rd - ";
+}
+
+.tito-ticket-status-sold-out span:after {
+}
+
+.tito-ticket-quantity span {
+  padding-left: .3em;
+}
+
+.tito-ticket-quantity input {
+  width: 3em;
+  border: none;
+  text-align: center;
+}
+
+label.tito-ticket-name {
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 0;
+}
+
+.tito-ticket-name-wrapper, label.tito-ticket-name  {
+  width: 100%;
+}
+
+.tito-ticket-name-wrapper .tito-tickets-remaining {
+  font-size: 10px;
+  float: right;
+  margin-top: 1em;
+}
+
+.tito-submit {
+  float: right;
+  margin-right: 20px;
+}
+#tickets .col-md-7 {
+  padding: 0;
+}

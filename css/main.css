@@ -928,9 +928,6 @@ span.tito-badge-link, .tito-ticket-upcoming-separator {
 .tito-ticket-upcoming-explanation, .tito-ticket-upcoming-separator {
   display: none;
 }
-.tito-ticket-status-upcoming:first-child .tito-ticket-upcoming-price:before {
-  content: "On sale: March 3rd - ";
-}
 
 .tito-ticket-status-sold-out span:after {
 }

@@ -597,6 +597,9 @@ header h1 {
   margin: 10px;
   font-size: 18px;
 }
+.andmore {
+  text-align: center;
+}
 footer {
   padding: 10px 0 100px;
   position: relative;

@@ -965,3 +965,7 @@ label.tito-ticket-name {
 #tickets .col-md-7 {
   padding: 0;
 }
+
+#tickets .policy {
+  font-size: .8em;
+}

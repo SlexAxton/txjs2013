@@ -930,6 +930,7 @@ span.tito-badge-link, .tito-ticket-upcoming-separator {
 }
 
 .tito-ticket-status-sold-out span:after {
+  content: " – Check back next week!";
 }
 
 .tito-ticket-quantity span {

@@ -908,15 +908,15 @@ Instructions:
   padding: 20px;
 }
 
-#tickets li.tito-ticket:nth-child(1)::after {
+#tickets #tito-previous-releases li.tito-ticket:nth-child(1)::after {
   content: 'Conference pass. July 24.';
 }
 
-#tickets li.tito-ticket:nth-child(2)::after {
+#tito-tito-bocoup-roost-txjs-2015-1-releases > li.tito-ticket:nth-child(1)::after {
   content: 'Pre-conference education event. July 22-23.';
 }
 
-#tickets li.tito-ticket:nth-child(3)::after {
+#tito-tito-bocoup-roost-txjs-2015-1-releases > li.tito-ticket:nth-child(2)::after {
   content: 'Combo pass. July 22-24.';
 }
 

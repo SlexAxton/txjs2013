@@ -938,7 +938,7 @@ span.tito-badge-link, .tito-ticket-upcoming-separator {
 }
 
 .tito-ticket-status-sold-out span:after {
-  content: " for now! - Late Bird tix - June 4 - $249";
+  content: ", sorry!";
 }
 
 .tito-ticket-quantity span {
